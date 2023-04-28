@@ -8,7 +8,7 @@ meetup-group:
 
 ---
 
-
+<img src="assets/images/sjcem.png" />
 
 
 ## Welcome
