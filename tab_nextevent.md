@@ -7,6 +7,6 @@ order: 1
 tags: example-tag
 ---
 
-## Example
+## Next Meeting/Event
 
 No Events are currently scheduled
